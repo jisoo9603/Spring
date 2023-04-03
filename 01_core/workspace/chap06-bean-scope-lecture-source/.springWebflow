@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webflow-project-description>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.9.18.202109140629-RELEASE]]></pluginVersion>
+	<configs>
+		<config>
+			<file>src/com/greedy/section01/singleton/xmlconfig/spring-context.xml</file>
+			<name><![CDATA[spring-context]]></name>
+		</config>
+	</configs>
+</webflow-project-description>

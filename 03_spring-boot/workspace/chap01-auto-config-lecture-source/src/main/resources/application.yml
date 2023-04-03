@@ -1,0 +1,9 @@
+test:
+  greeting: hi!!!
+  value: hello world!!!
+  array: 안녕, 반가워
+#  array:
+#    - hell
+#    - world
+
+username: hello jiho
